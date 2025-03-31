@@ -1,4 +1,3 @@
-import Image from 'next/image';
 import Link from 'next/link';
 
 export default function MainPage() {
@@ -122,7 +121,7 @@ export default function MainPage() {
                     </div>
                   </div>
                   <div className="mt-3">
-                    <p className="text-sm">We're hiring a Senior Developer! Join our team and work on cutting-edge projects.</p>
+                    <p className="text-sm">We&apos;re hiring a Senior Developer! Join our team and work on cutting-edge projects.</p>
                   </div>
                 </div>
                 <div className="bg-gray-200 h-60 flex items-center justify-center">

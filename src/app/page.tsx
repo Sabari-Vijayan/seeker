@@ -1,5 +1,4 @@
-import { useState, useEffect } from "react";
-import Image from "next/image";
+//import { useState, useEffect } from "react";
 import Topbar from "./components/Topbar";
 import MainPage from "./components/MainPage";
 import Footer from "./components/Footer";
